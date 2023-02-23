@@ -1,1 +1,1 @@
-![mouse](https://user-images.githubusercontent.com/126159353/220899779-a69008f2-ca09-406c-8e80-e4456f22235d.png)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:EEFF00,100:a82da8&height=400&text=Welcome&desc=This%20is%20my%20portfolio%20GitHub.&animation=twinkling&fontColor=ffffff)
